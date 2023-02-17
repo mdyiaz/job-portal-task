@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "1",
+        "company": "Spark IT",
+        "joblocation": "Dhaka, Gulshan",
+        "picture": "https://media.licdn.com/dms/image/C4D0BAQHSEMgOT5GWXQ/company-logo_200_200/0/1519898757339?e=2147483647&v=beta&t=heDCQ83hVs7mEDF1S8-SX6QXV-hAXIh-dSJKSNRt0z8",
+        "position": "Front-end Developer",
+        "categories":"Experienced"
+      },
+      {
+        "_id": "2",
+        "company": "Revinr",
+        "joblocation": "Dhaka, Khilkhet",
+        "picture": "https://media.licdn.com/dms/image/C4D0BAQHQsy1ZyoJ01g/company-logo_200_200/0/1519952254890?e=2147483647&v=beta&t=v5_JPYUUQk0YBGRczFpdYkwHo2a2t9m1A8gX3-TGlEw",
+        "position": "AI Engineer",
+        "categories":"Experienced"
+      },
+      {
+        "_id": "3",
+        "company": "Bug Resistance",
+        "joblocation": "Dhaka, Rampura",
+        "picture": "https://www.it-farm.com/wp-content/themes/itf_pc/images/sns_banner.png",
+        "position": "Data Analyst",
+        "categories":"Experienced"
+      },
+      {
+        "_id": "4",
+        "company": "Devs Core",
+        "joblocation": "Dhaka, Rayerbag",
+        "picture": "https://i0.wp.com/www.devs-core.com/wp-content/uploads/2022/11/Untitled-23.png?fit=800%2C800&ssl=1",
+        "position": "Back-end Developer",
+        "categories":"Experienced"
+      },
+      {
+        "_id": "5",
+        "company": "Pixelean",
+        "joblocation": "Dhaka, Banasri",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEvUqnesVKN52bDgouQV8WselAJ6ijbq_FRcc_l6S_OD0yxvsy_Xg57QEhMYAn7w2F6c&usqp=CAU",
+        "position": "MERN Developer",
+        "categories":"Experienced"
+      },
+      {
+        "_id": "6",
+        "company": "Micple INC",
+        "joblocation": "Dhaka, Baridhara",
+        "picture": "https://micple.com/static/media/logo.9e51d338a7d8372fe4d0.png",
+        "position": "Software Engineer",
+        "categories":"Experienced"
+      }
+]
